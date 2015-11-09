@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">اسلامی مرکز کتب لائبریری</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">لائبریری</string>
+
+    <string name="snack_bar_test">اسلامی مرکز کتب لائبریری میں آپ کو خشامدید کہتے ہیں </string>
+
+    <string name="radio_title_english">انگلش</string>
+    <string name="radio_title_urdu">اردو</string>
+</resources>

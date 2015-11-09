@@ -5,4 +5,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="snack_bar_test">Welcome to Islamimarkaz Books Library</string>
+
+    <string name="radio_title_english">English</string>
+    <string name="radio_title_urdu">Urdu</string>
+
 </resources>
