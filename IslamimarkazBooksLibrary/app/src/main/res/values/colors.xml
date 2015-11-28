@@ -5,5 +5,12 @@
     <color name="colorAccent">#FFFFFF</color>
     <color name="textColorSecondary">#FFFFFF</color>
     <color name="transparent">#00000000</color>
+
+
+    <color name="text_black_dark">#3D3D3D</color>
+    <color name="text_black_light">#A2A2A2</color>
+    <color name="text_green_light">#8EBF6E</color>
+
+
 </resources>
 
